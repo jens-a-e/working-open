@@ -16,8 +16,14 @@ This is the start.
 
 - I have to improve my writing, so I am thinking of:
     - Starting a weekly / monthly newsletter
+        - a platform or a homegrown crafted list?
+            - tiny letter
+            - what about GDPR and storing those addresses?
+        - Mehan had a good point: it is easy for people to get in touch, just an email reply
+        - it would be good to train regular publishing
     - Starting a blog as a publish notebook
         - Fellow fellow Felipe has an amazing blog: https://is.efeefe.me/opendott
+- I love plain text writing, the ease and the light editors that come with it. I started a resource how to do this https://github.com/jens-a-e/trying-to-use-academic-markdown and hope people might contribute to make academic writing in plain text easier and fun
 
 # A list of relevant resources
 
