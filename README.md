@@ -12,7 +12,14 @@ The aim of this endeavour is to share while I am working and invite critique and
 
 This is the start.
 
-## A list of relevant resources
+# Projects
+
+- I have to improve my writing, so I am thinking of:
+    - Starting a weekly / monthly newsletter
+    - Starting a blog as a publish notebook
+        - Fellow fellow Felipe has an amazing blog: https://is.efeefe.me/opendott
+
+# A list of relevant resources
 
 * This repository https://github.com/jens-a-e/working-open
 * I am trying to write in plain text Markdown https://github.com/jens-a-e/trying-to-use-academic-markdown
