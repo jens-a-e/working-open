@@ -1,6 +1,6 @@
 # Working Open
 
-A meta repository of thoughts, notes, and links on working open.
+An umbrella repository containing thoughts, notes, and links on working open in the OpenDoTT project.
 
 Welcome to my journey of working open. This collection of thoughts, ideas, notes, and links is an effort to make my personal learnings more accessible. It also marks a the time when we--the [OpenDoTT](https://opendott.org)--started the project phase of [Internet Health](https://foundation.mozilla.org/en/internet-health/).
 
