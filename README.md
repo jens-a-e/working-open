@@ -14,11 +14,12 @@ This is the start.
 
 # Projects
 
+
 - I have to improve my writing, so I am thinking of:
     - Starting a weekly / monthly newsletter
         - a platform or a homegrown crafted list?
-            - tiny letter
-            - what about GDPR and storing those addresses?
+            - tiny letter?
+            - what about GDPR and services storing those addresses?
         - Mehan had a good point: it is easy for people to get in touch, just an email reply
         - it would be good to train regular publishing
     - Starting a blog as a publish notebook
