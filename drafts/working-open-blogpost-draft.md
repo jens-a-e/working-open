@@ -1,3 +1,8 @@
+---
+draft: true
+title: WIP: Generative Things vs Internet Appliances
+---
+
 A closed body cannot resonate
 
 A title? The writing needs a title… we’ll see.
@@ -12,7 +17,7 @@ What to open and to whom? A recurring question even before the
 
 ## Generative Things vs Internet Appliances
 
-Open-ended and generative devices vs internet appliances is a framing by Jonathan Zittrain @zittrainFutureInternetHow2008 I was made aware of in a conversation with Mehan Jayasuriya. With more and more products increasingly becoming appliances to access services and consume carefully considered bits of insights form the analysis of ones data, devices that enable us to generate and create outcomes on our own disappear. Our agency disappears with it. When Zittrain suggests to become better _netizens_ what does it mean for the space of the Internet of Things on and around the body?
+Open-ended and generative devices vs internet appliances is a framing by Jonathan Zittrain [-@zittrainFutureInternetHow2008] I was made aware of in a conversation with Mehan Jayasuriya. With more and more products increasingly becoming appliances to access services and consume carefully considered bits of insights form the analysis of ones data, devices that enable us to generate and create outcomes on our own disappear. Our agency disappears with it. When Zittrain suggests to become better _netizens_ what does it mean for the space of the Internet of Things on and around the body?
 
 To reflect how aspects of open and working open are part of my own research I would like to introduce two of the concepts that have been developed as a response to a participatory research study. In the study I asked participants to use an object they can find at home as an imaginary wearable Internet of Things device. To document their ideas and reflections they had to (re-)create a folded manual they had supposedly lost before.
 The design of the study is based on the concept of Design Probes. Design Probes are objects literally probing the participants experiences, reflections and ideas on a prompt. They are usually an unfinished—so to speak open—piece which is completed through the response of the person or group.
