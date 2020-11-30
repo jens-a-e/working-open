@@ -1,12 +1,15 @@
 ---
-draft: true
-title: WIP Generative Things vs Internet Appliances
+title: Notes on ~~working~~ un-learning “open”
+date: 2020-11-30
+author: Jens Alexander Ewald
+categories: reflections
+tags: working open
+draft: false
 ---
 
-Notes:
-- A closed body cannot resonate
-
 # Notes on ~~working~~ un-learning “open”
+
+A closed body cannot resonate.
 
 The post will reflect on different aspects from open leadership training over tools and ways of working open, concrete action and impact on the own way of working, and how I relate my current research to the learning.
 

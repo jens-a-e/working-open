@@ -7,6 +7,12 @@ If you want to get in touch, feel free to drop me an email: [jens.a.ewald@northu
 
 OpenDoTT is a EU H2020 funded joint project of the [University of Northumbria School of Design](https://northumbria.ac.uk/about-us/academic-departments/northumbria-school-of-design/), Newcastle and the [Mozilla Foundation](https://foundation.mozilla.org/).
 
+## Blog Posts
+
+My first blog post: [Notes on ~~working in the~~ un-learning Open](posts/unlearning-open)
+
+## Other pages
+
 As the page will evolve as an gate to a growing digital garden here are first resources:
 
 - A more detailed description of my research project: [https://opendott.org/self/](https://opendott.org/self/)
