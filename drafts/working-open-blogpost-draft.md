@@ -1,6 +1,6 @@
 ---
 draft: true
-title: WIP: Generative Things vs Internet Appliances
+title: WIP Generative Things vs Internet Appliances
 ---
 
 Notes:
