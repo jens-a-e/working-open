@@ -9,7 +9,11 @@ OpenDoTT is a EU H2020 funded joint project of the [University of Northumbria Sc
 
 ## Blog Posts
 
-My first blog post: [Notes on ~~working in the~~ un-learning Open](posts/unlearning-open)
+[Notes on ~~working in the~~ un-learning Open](posts/unlearning-open)
+
+## Field Notes
+
+[First Steps Prototyping Haptic Memories](notes/20201130180325-haptic-memories-prototyping)
 
 ## Other pages
 
