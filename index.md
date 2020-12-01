@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Field Notes on Exploring Resonant Internet of Things on and around the Body
 
 

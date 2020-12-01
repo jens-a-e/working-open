@@ -5,8 +5,8 @@ author: Jens Alexander Ewald
 categories: reflections
 tags: working open
 draft: false
+layout: post
 ---
-
 # Notes on ~~working~~ un-learning “open”
 
 A closed body cannot resonate.
