@@ -3,7 +3,9 @@ title: Notes on ~~working~~ un-learning “open”
 date: 2020-11-30
 author: Jens Alexander Ewald
 categories: reflections
-tags: working open
+tags:
+    - post
+    - working open
 draft: false
 layout: post
 ---
