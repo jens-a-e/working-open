@@ -7,6 +7,10 @@ This is a the gate to a growing digital garden with seedlings of notes, thoughts
 
 Want to get in touch or just say hello :) to drop me an email [jens.a.ewald@northumbria.ac.uk](mailto:jens.a.ewald@northumbria.ac.uk)
 
+## NEW: Readinglists
+
+[CURRENT - Week 6 20221](reading/20210208-readinglist)
+
 ## Blog Posts
 
 [Notes on ~~working in the~~ un-learning Open](posts/unlearning-open)

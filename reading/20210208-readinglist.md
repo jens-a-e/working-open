@@ -17,8 +17,13 @@ _This is an initial post in a series to record what I read during my research. I
 
 This week I am reading:
 
-- cont. _Designing with the Body_, Kristina Höök, MIT Press
-- _The uncontrollability of the World_, Harmut Rosa, engl. Translation, Polity Press, Cambridge
-    - the original book was published in German as _Unverfügbarkeit_, Residenz Verlag, Salzburg
-- How to do Nothing, Jenni Ordell
-- influx and eflux, Jane Bennett
+## cont. _Designing with the Body_, Kristina Höök, MIT Press
+
+## _The uncontrollability of the World_, Harmut Rosa, engl. Translation, Polity Press, Cambridge
+
+The original book was published in German as _Unverfügbarkeit_, Residenz Verlag, Salzburg
+
+
+## How to do Nothing, Jenni Ordell
+
+## influx and eflux, Jane Bennett
