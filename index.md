@@ -3,7 +3,7 @@ layout: main
 title: Field Notes on Exploring Resonant Internet of Things on and around the Body
 ---
 
-This is a the gate to a growing digital garden with seedlings of notes, thoughts, some flowerbeds of code, public documentation and reflection on the PhD research on _Wearables and the Self_ as part of the [Open Design of Trusted Things (OpenDoTT)](https://opendott.org) project.
+This is the gate to a growing digital allotment with seedlings of notes, thoughts, some flowerbeds of code, public documentation and reflection on the PhD research on _Wearables and the Self_ as part of the [Open Design of Trusted Things (OpenDoTT)](https://opendott.org) project.
 
 Want to get in touch or just say hello :) to drop me an email [jens.a.ewald@northumbria.ac.uk](mailto:jens.a.ewald@northumbria.ac.uk)
 
@@ -11,9 +11,11 @@ Want to get in touch or just say hello :) to drop me an email [jens.a.ewald@nort
 
 [CURRENT - Week 6 20221](reading/20210208-readinglist)
 
-## Blog Posts
+## Short Writings
 
 [Notes on ~~working in the~~ un-learning Open](posts/unlearning-open)
+
+[A more-than-human short fiction on a weather station](posts/unlearning-open) written during the [More-than-human fictions](https://2020conf.thingscon.org/2020/11/26/more-than-human-fictions/) workshop at Good Things Fest 2020.
 
 ## Field Notes
 
