@@ -15,7 +15,7 @@ Want to get in touch or just say hello :) to drop me an email [jens.a.ewald@nort
 
 [Notes on ~~working in the~~ un-learning Open](posts/unlearning-open)
 
-[A more-than-human short fiction on a weather station](posts/unlearning-open) written during the [More-than-human fictions](https://2020conf.thingscon.org/2020/11/26/more-than-human-fictions/) workshop at Good Things Fest 2020.
+[A more-than-human short fiction on a weather station](posts/a-weather-station) written during the [More-than-human fictions](https://2020conf.thingscon.org/2020/11/26/more-than-human-fictions/) workshop at Good Things Fest 2020.
 
 ## Field Notes
 

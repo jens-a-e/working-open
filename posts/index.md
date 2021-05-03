@@ -9,5 +9,5 @@ This is a simple weblog of posts I have written during the research. They are ei
 <br>
 
 {%- for post in collections.post -%}
-[{{ post.data.title }}]({{ post.data.url }}) – *{{ post.data.date }}*
+- [{{ post.data.title }}]({{ post.data.url }}) – *{{ post.data.date }}*
 {%- endfor -%}
