@@ -20,6 +20,7 @@ Obsidian
 - multi pane layouts
 - linkable docs
 - keep notes and other files besides the writing docs
+- There is a Git plugin to help with using Git
 
 
 tbc.
