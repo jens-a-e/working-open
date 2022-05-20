@@ -15,6 +15,7 @@ Other ideas and notes:
 - build it web app first and embed for iOS and Android
 - OpenFrameworks?
   - would be a good fit to have the library in C++ for embed use too
+  - Is too laborious to set up. Has not changed in years.
 
 Meanwhile: waiting for the download of Xcode 12.2. It is a 10.6GB download
 
