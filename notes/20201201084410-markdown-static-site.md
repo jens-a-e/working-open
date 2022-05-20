@@ -15,6 +15,3 @@ Initial research results to get it to work:
   - upside: seems simple
   - downside: needs an eleventy config file and a plugins directory in the folder
 - usign a different static site generator?
-
-
-

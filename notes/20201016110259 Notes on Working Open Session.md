@@ -1,3 +1,6 @@
+---
+date: 2020-10-16T11:02:59
+---
 # Group Session Notes
 
 Today is wrap up day :)

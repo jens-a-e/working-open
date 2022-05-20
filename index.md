@@ -3,15 +3,16 @@ layout: main
 title: Field Notes on Exploring Resonant Internet of Things on and around the Body
 ---
 
-This is the entry to a growing digital allotment with seedlings of notes, thoughts, some flowerbeds of code, public documentation and reflection on the PhD research on _Wearables and the Self_ as part of the [Open Design of Trusted Things (OpenDoTT)](https://opendott.org) project.
+This is the door to a growing digital allotment with seedlings of notes, thoughts, reflections, some flowerbeds of code, public documentation during my PhD research on _Wearables and the Self_ as part of the [Open Design of Trusted Things (OpenDoTT)](https://opendott.org) project.
 
 Want to get in touch or just say hello :) to drop me an email [jens.a.ewald@northumbria.ac.uk](mailto:jens.a.ewald@northumbria.ac.uk)
 
-## Posts
+## Latest Notes
 
-[Notes on the Internet Health Training Oct 2020: ~~working in the~~ un-learning Open](posts/unlearning-open)
-
-[A more-than-human short fiction on a weather station](posts/a-weather-station) written during the [More-than-human fictions](https://2020conf.thingscon.org/2020/11/26/more-than-human-fictions/) workshop at Good Things Fest 2020.
+{% set latest = collections.all | reverse | slice(3) | first %}
+{%- for note in latest %}
+- {{note.date.toUTCString()}} | [{{note.fileSlug}}]({{note.url}})
+{% endfor -%}
 
 ## Field Notes
 
@@ -26,12 +27,6 @@ As this little garden will evolve here are some first resources:
 - More to follow
 
 As part of the research I am interested in low tech approaches. Hence, for now this page is intentionally left as simple HTML with a bit of style following bit by bit.
-
-## Readinglists
-
-- [Week 6 20221](reading/20210208-readinglist)
-
-
 ## About OpenDoTT
 
 OpenDoTT is a EU H2020 funded joint project of the [University of Northumbria School of Design](https://northumbria.ac.uk/about-us/academic-departments/northumbria-school-of-design/), Newcastle and the [Mozilla Foundation](https://foundation.mozilla.org/). This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508.

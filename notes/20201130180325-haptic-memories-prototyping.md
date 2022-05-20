@@ -58,4 +58,3 @@ Also downloading the current OpenFrameworks 0.11.1 release for iOS target to hav
 
 The last time I have seriously used OpenFrameworks was during my diploma and a little later.
 Going to be fun :)
-
